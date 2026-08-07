@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-4e0bpy.asiabola14.com/sitemap.xml
